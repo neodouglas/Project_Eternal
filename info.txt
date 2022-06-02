@@ -1,0 +1,5 @@
+key
+amino link
+api link
+api key
+api name
